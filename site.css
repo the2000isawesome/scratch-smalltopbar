@@ -1,0 +1,46 @@
+#navigation {
+	height: 35px;
+}
+#view {
+	margin-top: 35px;
+}
+#navigation .inner > ul > li {
+	height: 35px;
+}
+#navigation .logo a {
+	height: 35px;
+	background-size: 80%;
+}
+#navigation .logo a:hover {
+	background-size: 85%;
+}
+#navigation .link > a, .account-nav .user-info {
+	padding: 6px 15px 0 15px;
+	height: 30px;
+}
+#navigation .inner > ul > li.search .input[type="text"], #navigation .inner > ul > li.search .button[type="text"] {
+	height: 25px;
+}
+#navigation .inner > ul > li.search .btn-search {
+	width: 25px;
+	height: 25px;
+}
+#navigation .inner > ul > li.right {
+	margin-bottom: 15px;
+}
+#navigation .link.right > a {
+	padding: 6px 6px 0 6px;
+}
+#navigation .messages .message-count.show {
+	top: .15rem;
+	right: .6rem;
+}
+#navigation .messages > a:hover, #navigation .mystuff > a:hover {
+	background-size: 45%;
+}
+#navigation .inner .account-nav .user-info {
+	padding-right: 10px;
+}
+#navigation .inner .account-nav .dropdown {
+	top: 35px;
+}
