@@ -33,7 +33,7 @@
 }
 #navigation .messages .message-count.show {
 	top: .15rem;
-	right: .6rem;
+	right: .1rem;
 }
 #navigation .messages > a:hover, #navigation .mystuff > a:hover {
 	background-size: 45%;
